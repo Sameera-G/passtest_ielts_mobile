@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1018479341306",
+    "firebase_url": "https://patient-health-check-e936c-default-rtdb.firebaseio.com",
+    "project_id": "patient-health-check-e936c",
+    "storage_bucket": "patient-health-check-e936c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018479341306:android:c571b3f345a217838f2343",
+        "android_client_info": {
+          "package_name": "com.example.neenq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsJ68Nl46JG79UCqX5A6RHu5CGBmjRtx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

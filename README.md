@@ -1,5 +1,10 @@
 # 🎯 IELTSMate – Your Personalized Exam Prep Buddy
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
+# 🎯 IELTSMate – Your Personalized Exam Prep Buddy
+
 **IELTSMate** is a smart, cross-platform IELTS preparation app designed to help users practice and master the four key areas of the IELTS exam: **Listening**, **Reading**, **Writing**, and **Speaking** (coming soon). It combines AI-generated content, automated evaluation, and a sleek Flutter interface to deliver a comprehensive self-study solution for IELTS candidates.
 
 ---
@@ -142,3 +147,14 @@ We welcome contributions! Feel free to fork the repo, submit issues, or open pul
 
 - **Developer:** Sameera Gamage  
 - **Affiliation:** M3S Research Unit, University of Oulu
+
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.
+
+> All rights and ownership of this application belong solely to **Sameera Gamage**. Unauthorized use or misrepresentation is strictly prohibited.
+
+See the full [LICENSE](./LICENSE) file for details.

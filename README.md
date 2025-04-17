@@ -3,13 +3,13 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
-# 🎯 IELTSMate – Your Personalized Exam Prep Buddy
+# IELTSMate – Your Personalized Exam Prep Buddy
 
 **IELTSMate** is a smart, cross-platform IELTS preparation app designed to help users practice and master the four key areas of the IELTS exam: **Listening**, **Reading**, **Writing**, and **Speaking** (coming soon). It combines AI-generated content, automated evaluation, and a sleek Flutter interface to deliver a comprehensive self-study solution for IELTS candidates.
 
 ---
 
-## ✨ Features
+## Features
 
 ### 🎧 Listening Practice
 - AI-generated listening passages with background context
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component    | Technology              |
 |--------------|--------------------------|
@@ -57,9 +57,9 @@ ieltsmate/ │ ├── lib/ # Flutter frontend │ ├── main.dart │ ├
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 🔧 Prerequisites
+### Prerequisites
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
 - Python 3.8+ with `pip`
@@ -68,7 +68,7 @@ ieltsmate/ │ ├── lib/ # Flutter frontend │ ├── main.dart │ ├
 
 ---
 
-### ⚙️ Backend Setup (Flask + SQLite)
+### Backend Setup (Flask + SQLite)
 
 1. **Navigate to the backend directory:**
 
